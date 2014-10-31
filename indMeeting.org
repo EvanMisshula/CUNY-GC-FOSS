@@ -1,0 +1,74 @@
+#+OPTIONS: H:3 
+#+OPTIONS: tex:dvipng
+#+OPTIONS: toc:nil 
+#+STARTUP: align oddeven lognotestate
+#+SEQ_TODO: TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c) noexport(n) export(e)
+#+Date:  
+#+TITLE: FOSS Projects
+#+AUTHOR: Evan Misshula\\ \texttt{Criminal Justice, CUNY Graduate Center}
+#+LANGUAGE:   en
+#+EXCLUDE_TAGS: noexport
+#+CATEGORY: dh
+
+* GC Free software initiatives
+** Open hatch
+   [[file:openHatch.org]]
+** Gerald J Sussman
+   - Get a date for the spring
+   - Tue, Wed Thurs 6:30 or 7 - 9 pm
+** Software Carpentry
+ - Follow up with Greg Wilson
+ - discussed bringing him in mid to late January or February 
+ - event focused on Humanities and SScience 
+   - digital fellows
+   - others
+** Libre planet 2015 
+*** DONE submission deadline
+    DEADLINE: <2014-11-02 Sun>
+** DONE Hastac 2015
+   DEADLINE: <2014-10-31 Fri>
+
+* Workshops
+** DONE Intro to R 
+   SCHEDULED: <2014-10-23 Thu>
+
+** TODO Command line tools
+   SCHEDULED: <2014-11-11 Tue>
+   sent note to Keith
+** WAITING Githu 
+   SCHEDULED: <2014-11-18 Tue>
+* blog posts
+** DONE Dev environment
+   SCHEDULED: <2014-10-20 Mon>
+** Org Mode
+   SCHEDULED: <2014-11-24 Mon>
+* TODO Build out publicizing
+** dev blog
+ - Lev's project
+ - DH Box
+ 
+* social media scraping
+* Ebola Open Data Jam
+  SCHEDULED: <2014-10-18 Sun 09:00>--<2014-10-18 Sat 17:00>
+  :PROPERTIES:
+  :company:  open space
+  :address: 156 5th Ave
+  :crossSt: 20
+  :floor: 2nd
+  :url: http://www.meetup.com/Africa-Open-Data/events/211518232/
+  :END:
+* DONE Women who code
+  SCHEDULED: <2014-10-17 Fri 18:30-21:30>
+  :PROPERTIES:
+  :company:  mapzen
+  :address: 30 W 26th street
+  :floor: 7
+  :url: http://www.meetup.com/WomenWhoCodeNYC/events/212523702/
+  :END:
+* NYLUG								    :ARCHIVE:
+  SCHEDULED: <2014-10-21 Tue 18:00-20:00>
+  :PROPERTIES:
+  :company:  CCNY
+  :intersection: 140th and Convent Ave
+  :END:
